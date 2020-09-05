@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29796419236",
+    "firebase_url": "https://happyplace-erbe.firebaseio.com",
+    "project_id": "happyplace-erbe",
+    "storage_bucket": "happyplace-erbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29796419236:android:2494671c49021475cac831",
+        "android_client_info": {
+          "package_name": "com.erbe.happyplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29796419236-9v9rhtu3ffk3n90gpkqu95tbdtnrrj3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erbe.happyplaces",
+            "certificate_hash": "6a0ae460ac96c7cb41458a47c7a99296fcd196fb"
+          }
+        },
+        {
+          "client_id": "29796419236-7lj2sh0pk9ncmo45hmijfvgmnqcfvi1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzlDL2HtpViPTubRz3N3UQL4ayB_oh4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29796419236-7lj2sh0pk9ncmo45hmijfvgmnqcfvi1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
