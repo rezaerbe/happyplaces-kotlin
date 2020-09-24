@@ -15,6 +15,7 @@ This is course about Learn Android 10 App Development From Beginner to Advanced 
 * Maps
 * Places
 * Location
+* SQLite
 
 ## Screenshots
 
